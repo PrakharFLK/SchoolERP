@@ -1,0 +1,7 @@
+{
+  "name": "SchoolERP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
